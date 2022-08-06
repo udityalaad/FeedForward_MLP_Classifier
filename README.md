@@ -11,7 +11,7 @@ https://github.com/othneildrew/Best-README-Template -->
   <img src="Read_Me_Content/TopLogo.png" alt="TopLogo">
   
   <p align="center">
-    A feed-forward Multi-Layer Perceptron to solve non-linear separable classification problems !
+    A feed-forward Multi-Layer Perceptron to solve non-linearly separable classification problems !
   </p>
 </div>
 
@@ -35,7 +35,7 @@ https://github.com/othneildrew/Best-README-Template -->
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-  This is a multi-layer perceptron neural network created from scratch, using the backpropagation learning algorithm based on Gradient Descent. The network is custom configurable and can be applied to input from varying domains.
+  This is a multi-layer perceptron neural network created from scratch, using the backpropagation learning algorithm based on Gradient Descent. The network is custom configurable and can be applied to inputs from varying domains.
 
   The network is supervised and is intended for non-linear classification problems, which would be not possible to be solved with a simple Perceptron network.
 
@@ -99,10 +99,8 @@ https://github.com/othneildrew/Best-README-Template -->
   <spacer type="vertical" height="4" width="2"></spacer>
 
   * ##### Activation Functions:
-     - For Hidden Layer: Sigmoid
-          Which was the ideal function to be used at the hidden layer
-     - For Output Layer: SoftMax
-          The output is in one-hot encoded format, with only 1 of the 4 indices holding the value ‘1’. Hence it makes sense to use SoftMax here, which would normalize the output to a network of probability distribution.
+     - <b> For Hidden Layer: Sigmoid </b> - which was the ideal function to be used at the hidden layer
+     - <b> For Output Layer: SoftMax </b> - The output is in one-hot encoded format, with only 1 of the 4 indices holding the value ‘1’. Hence it makes sense to use SoftMax here, which would normalize the output to a network of probability distribution.
   
   <spacer type="vertical" height="4" width="2"></spacer>
   
