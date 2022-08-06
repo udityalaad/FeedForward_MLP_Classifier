@@ -76,6 +76,8 @@ https://github.com/othneildrew/Best-README-Template -->
 ## Case Study Analysis
   We tried our network with a large data sample - [which can be found in <b>train_data.csv</b> and <b>train_labels.csv</b>].
 
+  The detailed report can be found in <b>Report.pdf</b> in the parent directory.
+
   The following configuration was utilized:
   * ##### Input Size = 784
      - Since we have 784 features per data point
