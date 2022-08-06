@@ -146,7 +146,7 @@ https://github.com/othneildrew/Best-README-Template -->
   
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; udityalaad123@gmail.com
 
-  <b>Project Link</b> &nbsp; [https://github.com/udityalaad/RBF_NN_for_Map_Approximation](https://github.com/udityalaad/RBF_NN_for_Map_Approximation)
+  <b>Project Link</b> &nbsp; [https://github.com/udityalaad/FeedForward_MLP_Classifier](https://github.com/udityalaad/FeedForward_MLP_Classifier)
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
